@@ -1,0 +1,15 @@
+//MY THEME COLORS
+$purple    : #644F9C !default;
+$orange    : #FF6F00 !default;
+
+//WHITE AND GRAY COLORS
+$light     : #fff;
+$black     : #404040;
+$primary   : $purple;
+$secondary : #F2F2F2;
+$warning : $orange;
+$info : #F8F8F8;
+
+
+//IMPORT BOOTSTRAP 5
+@import "scss-bs/bootstrap";

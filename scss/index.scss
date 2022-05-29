@@ -1,0 +1,15 @@
+@import 'custom';
+
+// IMPORT THE COMPONENT
+@import 'components/buttons';
+@import 'components/typography';
+@import 'components/pages';
+
+
+
+
+
+
+
+//SCSS BUILD COMMAND
+//sass scss/index.scss assets/css/index.css --watch
